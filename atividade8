@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Processadores</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabela de Processadores</h1>
+    <table>
+        <tr>
+            <th>Processador</th>
+            <th>Velocidade (MHz)</th>
+            <th>Preço de lançamento</th>
+            <th>Data de Lançamento</th>
+            <th>Preços em Agosto/2001*</th>
+            <th>Queda</th>
+        </tr>
+        <tr>
+            <td>AMD K-6</td>
+            <td>200</td>
+            <td>315</td>
+            <td>Maio/97</td>
+            <td>107</td>
+            <td>66</td>
+        </tr>
+        <tr>
+            <td>AMD K-6 2</td>
+            <td>233</td>
+            <td>487</td>
+            <td>Maio/97</td>
+            <td>284</td>
+            <td>35</td>
+        </tr>
+        <tr>
+            <td>Cyrix gx86</td>
+            <td>200</td>
+            <td>-</td>
+            <td>Maio/97</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Intel Pentium II</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Maio/97</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Intel Pentium III</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Maio/97</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </table>
+    <p>*Preços FOB são estimados em US$ por unidade para uma proposta baseada em mil unidades.</p>
+    <p>Informações extraídas do arquivo histórico Exame de setembro (1977).</p>
+</body>
+</html>

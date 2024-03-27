@@ -1,0 +1,13 @@
+<table>
+  <tr>
+    <td>
+      <p>Conteúdo da célula principal</p>
+      <table>
+        <tr>
+          <td>Célula 1 da tabela interna</td>
+          <td>Célula 2 da tabela interna</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>

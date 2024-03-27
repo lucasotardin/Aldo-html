@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página com Texto entre Imagens</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="caminho_para_sua_imagem.jpg" alt="Imagem à esquerda" style="width: 100px; height: 100px;">
+        <p style="margin: 0 20px;">Com esta página estou mostrando uma forma de colocar um texto entre duas figuras.</p>
+        <img src="caminho_para_sua_imagem.jpg" alt="Imagem à direita" style="width: 100px; height: 100px;">
+    </div>
+</body>
+</html>
+

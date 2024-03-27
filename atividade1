@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+                          <html>
+                          <head>
+                              <title>Lucas Tardin</title>
+                          </head>
+                          <body>
+                              <div style="display: flex;">
+                                  <div style="width: 30%; background-color: #008080; color: white; padding: 20px;">
+                                      <img src="caminho_para_sua_imagem.jpg" alt="Foto de Daniela Pereira" style="border-radius: 50%;">
+                                      <p>lucasotardin@gmail.com</p>
+                                      <p>(61) 998701103</p>
+                                      <p>Rua das Flores, 70, Rio de Janeiro/Copacabana – CEP: 23040-120</p>
+                                  </div>
+                                  <div style="width: 70%; padding: 20px;">
+                                      <h1>Lucas Oliveira Tardin</h1>
+                                      <h2>RESUMO PROFISSIONAL</h2>
+                                      <p>Professor de inglês a 3 anos, estudante de sistemas de informação, graduação em andamento</p>
+                                      <h2>HISTÓRICO PROFISSIONAL</h2>
+                                      <p>Julho 2021-2024 até Jul/Train-Gerente distrital / Rio de Janeiro/RJ</p>
+                                      <ul>
+                                          <li>Dirigiu iniciativas des desenvolvimento e recrutamento/manutenção/equipe para maximizar produtividade e rendimentos em níveis recordes.</li>
+                                          <li>Aumentou volume da equipe que vendeu.</li>
+                                          <li>Administração do trabalho positivo em torno da criação d ambiente operações diárias para assegurar que os pp sejam executados sem complicações e dentro dos prazos previstos.</li>
+                                          <li>Cultivou fortes relacionamentos comerciais com clientes para observ</li>
+                                      </ul>
+                                  </div>
+                              </div>
+                          </body>
+                          </html>
+
+        

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Tabela</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de Tabela</h1>
+    <p>A queda de preço de três marcas de chips</p>
+    <table>
+        <tr>
+            <th>Processador</th>
+            <th>Velocidade do CPU (MHz)</th>
+            <th>Preço do lançamento*</th>
+            <th>Data do Lançamento</th>
+            <th>Preços com Apraz/1998*</th>
+        </tr>
+        <tr>
+            <td>AMD K6</td>
+            <td>200</td>
+            <td>315</td>
+            <td>Abril/97</td>
+            <td>107</td>
+        </tr>
+        <tr>
+            <td>AMD K6</td>
+            <td>233</td>
+            <td>437</td>
+            <td>Maio/97</td>
+            <td>284</td>
+        </tr>
+        <tr>
+            <td>Cyrix 6x86</td>
+            <td>200</td>
+            <td>-240</td>
+            <td>Maio/97</td>
+            <td>-188</td>
+        </tr>
+        <tr>
+            <td>Cyrix 6x86</td>
+            <td>233</td>
+            <td>-320</td>
+            <td>Maio/97</td>
+            <td>-289</td>
+        </tr>
+        <tr>
+            <td>Intel Pentium II</td>
+            <td>233</td>
+            <td>-636</td>
+            <td>Maio/97</td>
+            <td>-539</td>
+        </tr>
+        <tr>
+            <td>Intel Pentium II</td>
+            <td>266</td>
+            <td>-775</td>
+            <td>Maio/97</td>
+            <td>-699</td>
+        </tr>
+    </table>
+    <p>* Preço FOB calculado em US$ para fins de análise; o preço real no Brasil foi na média mais caro.</p>
+    <p>Informamos ainda os modelos e suas limitações técnicas e comerciais.</p>
+</body>
+</html>
+
